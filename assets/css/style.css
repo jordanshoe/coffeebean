@@ -26,7 +26,7 @@ p,input,label,span,a{
 }
 /* header area */
 .nav{
-    /* border: 2px solid black; */
+    border: 2px solid black;
     overflow: auto;
     width: 85%;
     margin: 0 auto 0 auto;
